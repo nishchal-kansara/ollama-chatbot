@@ -1,3 +1,5 @@
+Folder for font files
+
 # Fonts used in PDFs
 Free fonts available at: https://fonts.google.com/
 
