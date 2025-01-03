@@ -66,7 +66,7 @@ A conversational chatbot built using **Streamlit** and **Ollama**, designed to i
 ```
 ollama-chatbot/
 ├── chatBot.py        # Main application file
-├── custom_fonts/     # Folder for font files
+├── fonts/            # Folder for font files
 ├── response-pdf/     # Folder for saving generated PDFs
 ├── README.md
 ```
@@ -80,6 +80,9 @@ ollama-chatbot/
 - [Ollama Documentation](https://ollama.com/)
 - [Ollama Model Library](https://github.com/ollama/ollama?tab=readme-ov-file#model-library)
 - [FPDF Documentation](https://pyfpdf.readthedocs.io/)
+
+## 🎬 **Video Tutorial**  
+Check Out Video Tutorial Here: [**Click Here to Watch Video Tutorial**](https://drive.google.com/file/d/1r95Lqj9BKExA8tp0_0GLu0wuig6c1RPM/view?usp=sharing)
 
 Enjoy building with Ollama Chatbot! 🤖✨
 
