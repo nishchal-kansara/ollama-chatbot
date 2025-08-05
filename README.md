@@ -82,7 +82,7 @@ ollama-chatbot/
 - [FPDF Documentation](https://pyfpdf.readthedocs.io/)
 
 ## 🎬 **Video Tutorial**  
-Check Out Video Tutorial Here: [**Click Here to Watch Video Tutorial**](https://drive.google.com/file/d/1r95Lqj9BKExA8tp0_0GLu0wuig6c1RPM/view?usp=sharing)
+Check Out Video Tutorial Here: [**Click Here to Watch Video Tutorial**](https://youtu.be/PX7e-Ku9wJo)
 
 Enjoy building with Ollama Chatbot! 🤖✨
 
